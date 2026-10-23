@@ -1,0 +1,802 @@
+[
+  {
+    "candidate_id": "CAND-001",
+    "name": "Kavya Narayanan",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "SAP S/4HANA materials management (MM) practice."
+  },
+  {
+    "candidate_id": "CAND-002",
+    "name": "Arjun Venkatesh",
+    "category": "near_miss",
+    "target_role_number": 12,
+    "target_role": "Dev lead, CRM",
+    "rationale": "Excellent Health Cloud and Service Cloud dev lead at the right level, but based offshore in Bangalore while role 12 is onshore and the client restricts PHI from leaving the US."
+  },
+  {
+    "candidate_id": "CAND-003",
+    "name": "Lucía Ferreyra",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "AI and data science practice (customer analytics modeling) with no Salesforce, healthcare, or data migration delivery."
+  },
+  {
+    "candidate_id": "CAND-004",
+    "name": "Marcus Lindqvist",
+    "category": "strong_match",
+    "target_role_number": 4,
+    "target_role": "Integration architect (Epic interoperability)",
+    "rationale": "Minneapolis-based manager with Epic Bridges certification, FHIR and HL7 v2 depth, and MuleSoft Epic to Salesforce architecture experience."
+  },
+  {
+    "candidate_id": "CAND-005",
+    "name": "Arjun Mehta",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "AI and data science practice (NLP for insurance and banking) with no healthcare provider, Salesforce, or Data Cloud work."
+  },
+  {
+    "candidate_id": "CAND-006",
+    "name": "Jordan Whitfield",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cybersecurity practice (security operations center) with no application security, Salesforce Shield, or PHI access model design."
+  },
+  {
+    "candidate_id": "CAND-007",
+    "name": "Karthik Raghunathan",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Application development practice (Java, banking and payments) with no Salesforce or healthcare work."
+  },
+  {
+    "candidate_id": "CAND-008",
+    "name": "Joseph Dela Cruz",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "UiPath intelligent automation practice; payer exposure is RPA on claims, not Salesforce or Epic."
+  },
+  {
+    "candidate_id": "CAND-009",
+    "name": "Olivia Brennan",
+    "category": "strong_match",
+    "target_role_number": 15,
+    "target_role": "Dev lead, patient care",
+    "rationale": "Nashville-based senior consultant leading Health Cloud care management builds with Epic ADT integration at provider clients."
+  },
+  {
+    "candidate_id": "CAND-010",
+    "name": "Priya Venkataraman",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "AI and data science practice (ML engineering); life sciences exposure is supply chain forecasting, not provider CRM or patient data."
+  },
+  {
+    "candidate_id": "CAND-011",
+    "name": "Rohan Deshpande",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "SAP S/4HANA sales and distribution (SD) practice."
+  },
+  {
+    "candidate_id": "CAND-012",
+    "name": "Katarzyna Wiśniewska",
+    "category": "strong_match",
+    "target_role_number": 25,
+    "target_role": "Test automation engineer",
+    "rationale": "Offshore senior consultant with Provar, Selenium and Copado Robotic Testing regression suites on a provider Health Cloud program."
+  },
+  {
+    "candidate_id": "CAND-013",
+    "name": "Sophie Laurent",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Veeva life sciences commercial practice; life sciences only, no provider or Health Cloud work."
+  },
+  {
+    "candidate_id": "CAND-014",
+    "name": "Victoria Ashworth",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Strategy practice (M&A integration and operating model); program governance is corporate transactions, not healthcare technology delivery."
+  },
+  {
+    "candidate_id": "CAND-015",
+    "name": "Denise Kowalczyk",
+    "category": "near_miss",
+    "target_role_number": 1,
+    "target_role": "Program manager leader",
+    "rationale": "Right level and strong multi-vendor Salesforce program leadership, but payer-only with no provider or Epic program exposure, and availability_date 2027-04-05 is nearly three months after the 2027-01-11 program start."
+  },
+  {
+    "candidate_id": "CAND-016",
+    "name": "Priya Raghunathan",
+    "category": "strong_match",
+    "target_role_number": 3,
+    "target_role": "Technical architect (Salesforce)",
+    "rationale": "Dallas-based manager and CTA with deep Health Cloud data model, sharing, and large data volume experience at provider scale."
+  },
+  {
+    "candidate_id": "CAND-017",
+    "name": "Tomasz Wierzbicki",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cloud native platform engineering practice (Kubernetes, GitOps); DevOps skills are infrastructure-side, not Salesforce release management."
+  },
+  {
+    "candidate_id": "CAND-018",
+    "name": "Marcus Webb",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Anaplan connected planning practice."
+  },
+  {
+    "candidate_id": "CAND-019",
+    "name": "Rebecca Hollister",
+    "category": "strong_match",
+    "target_role_number": 30,
+    "target_role": "OCM and training lead",
+    "rationale": "Onshore manager with nursing background leading clinical adoption, training design and communications for Epic and Health Cloud go-lives."
+  },
+  {
+    "candidate_id": "CAND-020",
+    "name": "Catherine Lowell",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cybersecurity risk and GRC practice for financial services; control framework work does not cover healthcare PHI or Salesforce security architecture."
+  },
+  {
+    "candidate_id": "CAND-021",
+    "name": "Marcus Delgado-Reyes",
+    "category": "near_miss",
+    "target_role_number": 2,
+    "target_role": "Solution architect",
+    "rationale": "Correct level, onshore, deep multi-cloud Salesforce design and discovery leadership, but experience is financial services and retail only, with no Health Cloud, healthcare provider or Epic touchpoint background."
+  },
+  {
+    "candidate_id": "CAND-022",
+    "name": "Kevin Nguyen",
+    "category": "strong_match",
+    "target_role_number": 27,
+    "target_role": "Integration tester (Epic to Salesforce)",
+    "rationale": "Onshore consultant running end-to-end Epic to Salesforce interface testing with PHI-bound data on provider programs."
+  },
+  {
+    "candidate_id": "CAND-023",
+    "name": "Daniel Moriarty",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Pega platform practice; payer and PHI exposure is on Pega claims, not Salesforce or Epic."
+  },
+  {
+    "candidate_id": "CAND-024",
+    "name": "Darnell Whitfield",
+    "category": "near_miss",
+    "target_role_number": 24,
+    "target_role": "Test lead",
+    "rationale": "Right level, onshore and ISTQB certified with real SIT, UAT and defect governance leadership, but all experience is manual testing in retail ecommerce with no Salesforce, Epic or healthcare exposure."
+  },
+  {
+    "candidate_id": "CAND-025",
+    "name": "Aisha Rahman",
+    "category": "strong_match",
+    "target_role_number": 5,
+    "target_role": "Data architect",
+    "rationale": "Philadelphia-based senior consultant with patient identity matching, Health Cloud migration, and Data Cloud experience at provider clients."
+  },
+  {
+    "candidate_id": "CAND-026",
+    "name": "Elena Marchetti",
+    "category": "strong_match",
+    "target_role_number": 26,
+    "target_role": "Test data and environment analyst",
+    "rationale": "Onshore consultant owning synthetic and de-identified test data and environment readiness on provider Health Cloud programs."
+  },
+  {
+    "candidate_id": "CAND-027",
+    "name": "Derek Halvorsen",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cloud infrastructure and migration practice (AWS); the hospital work was a data center exit with no CRM, Epic, or Salesforce scope."
+  },
+  {
+    "candidate_id": "CAND-028",
+    "name": "Henrik Solberg",
+    "category": "near_miss",
+    "target_role_number": 5,
+    "target_role": "Data architect",
+    "rationale": "Strong onshore data architect with identity matching and migration strategy on Snowflake and Databricks, but payer-only with no Salesforce Data Cloud experience and no migration into Salesforce or Health Cloud."
+  },
+  {
+    "candidate_id": "CAND-029",
+    "name": "Mei Lin Zhao",
+    "category": "strong_match",
+    "target_role_number": 11,
+    "target_role": "UX designer",
+    "rationale": "Seattle-based senior consultant designing accessible patient and staff experiences on Salesforce for health systems."
+  },
+  {
+    "candidate_id": "CAND-030",
+    "name": "Venkata Sai Kiran Reddy",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "SAP ABAP technical development practice."
+  },
+  {
+    "candidate_id": "CAND-031",
+    "name": "Sai Teja Reddy",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Mobile development practice (native Android); testing exposure is unit and UI tests for apps, not functional testing of CRM releases."
+  },
+  {
+    "candidate_id": "CAND-032",
+    "name": "Valentina Acosta",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cloud infrastructure practice (AWS operations) with no Salesforce DevOps, testing, or healthcare exposure."
+  },
+  {
+    "candidate_id": "CAND-033",
+    "name": "Tessa Marchetti",
+    "category": "near_miss",
+    "target_role_number": 9,
+    "target_role": "Business analyst, patient care",
+    "rationale": "Has Health Cloud care management analysis experience, but at Analyst level below the Consultant floor, and focused on payer utilization management rather than provider care coordination, care plans and scheduling."
+  },
+  {
+    "candidate_id": "CAND-034",
+    "name": "Camila Rodriguez",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Veeva Vault quality and regulatory practice for life sciences."
+  },
+  {
+    "candidate_id": "CAND-035",
+    "name": "Danielle Okafor",
+    "category": "strong_match",
+    "target_role_number": 18,
+    "target_role": "Dev lead, billing and revenue",
+    "rationale": "Onshore senior consultant dev lead with integration-heavy payments and patient estimate builds on provider programs."
+  },
+  {
+    "candidate_id": "CAND-036",
+    "name": "Deepa Iyer",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Quality engineering practice (performance testing for telecom BSS); no Salesforce test automation or functional regression experience."
+  },
+  {
+    "candidate_id": "CAND-037",
+    "name": "Rebecca Halvorsen",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Duck Creek P&C insurance practice."
+  },
+  {
+    "candidate_id": "CAND-038",
+    "name": "Natalie Brennan",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Adobe Campaign marketing automation practice."
+  },
+  {
+    "candidate_id": "CAND-039",
+    "name": "Brian Okafor",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Agile coaching practice in banking; ways-of-working coaching does not map to healthcare BA, test, or OCM roles."
+  },
+  {
+    "candidate_id": "CAND-040",
+    "name": "Mariel Santos",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Analytics and reporting practice (Power BI); dashboard work is BPO and insurance, with no functional testing or CRM background."
+  },
+  {
+    "candidate_id": "CAND-041",
+    "name": "Margaret Kowalczyk",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "SAP S/4HANA finance (FI/CO) practice; no Salesforce, Epic, or healthcare provider delivery."
+  },
+  {
+    "candidate_id": "CAND-042",
+    "name": "Kyle Brandt",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Salesforce Marketing Cloud practice for retail and CPG; no healthcare or Salesforce core platform delivery."
+  },
+  {
+    "candidate_id": "CAND-043",
+    "name": "Kevin Tran",
+    "category": "strong_match",
+    "target_role_number": 6,
+    "target_role": "Security architect",
+    "rationale": "San Diego-based senior consultant with Shield encryption, FLS, and audit design for PHI on Health Cloud, HCISPP certified."
+  },
+  {
+    "candidate_id": "CAND-044",
+    "name": "Erik Lindqvist",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Workday HCM practice; health system work is HR and timekeeping, not patient-facing CRM."
+  },
+  {
+    "candidate_id": "CAND-045",
+    "name": "Martín Pereyra",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Data engineering practice (Azure lakehouse) with no Salesforce data migration, identity matching, or healthcare exposure."
+  },
+  {
+    "candidate_id": "CAND-046",
+    "name": "Neha Kulkarni",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Salesforce Commerce Cloud B2C storefront practice; no Salesforce core platform or Health Cloud work."
+  },
+  {
+    "candidate_id": "CAND-047",
+    "name": "Marcus Bellamy",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Application development practice (.NET, telecom billing and provisioning); billing experience is telecom, not healthcare revenue cycle or Salesforce."
+  },
+  {
+    "candidate_id": "CAND-048",
+    "name": "Lauren Fitzgerald",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cybersecurity practice (AWS cloud security) for fintech and SaaS; no Salesforce Shield, field-level security, or PHI access design."
+  },
+  {
+    "candidate_id": "CAND-049",
+    "name": "Lauren McAllister",
+    "category": "strong_match",
+    "target_role_number": 7,
+    "target_role": "Epic application analyst",
+    "rationale": "Madison-based senior consultant with Epic Resolute, Cadence, and MyChart certifications and Salesforce program exposure."
+  },
+  {
+    "candidate_id": "CAND-050",
+    "name": "Hannah Sjoberg",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Finance transformation practice (CFO advisory, EPM); no healthcare revenue cycle or patient billing experience."
+  },
+  {
+    "candidate_id": "CAND-051",
+    "name": "Aditi Kulkarni",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cloud infrastructure practice (Azure engineering) with no Salesforce, integration, or healthcare application skills."
+  },
+  {
+    "candidate_id": "CAND-052",
+    "name": "Priya Raman",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Workday Financials practice; payer exposure is finance back office only."
+  },
+  {
+    "candidate_id": "CAND-053",
+    "name": "Martina Pereyra",
+    "category": "strong_match",
+    "target_role_number": 14,
+    "target_role": "Salesforce developer, CRM 2",
+    "rationale": "Montevideo-based consultant developer with Apex, LWC, Flow, and patient portal Experience Cloud work for US health systems."
+  },
+  {
+    "candidate_id": "CAND-054",
+    "name": "Sofia Navarro",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Mobile development practice (native iOS) with no CRM, Salesforce, or healthcare work."
+  },
+  {
+    "candidate_id": "CAND-055",
+    "name": "Jasmine Ortiz",
+    "category": "strong_match",
+    "target_role_number": 8,
+    "target_role": "Business analyst, CRM",
+    "rationale": "Phoenix-based consultant BA with provider patient engagement and service requirements experience on Service and Health Cloud."
+  },
+  {
+    "candidate_id": "CAND-056",
+    "name": "Rosalind Achebe-Turner",
+    "category": "near_miss",
+    "target_role_number": 30,
+    "target_role": "OCM and training lead",
+    "rationale": "Ideal clinical adoption, training design and Epic go-live OCM background at the right level and onshore, but availability_pct is only 40 against a lead role that needs a full-time commitment."
+  },
+  {
+    "candidate_id": "CAND-057",
+    "name": "Tamika Ellison",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "SAP SuccessFactors HCM practice; health system experience is HR systems only, not patient CRM or Epic."
+  },
+  {
+    "candidate_id": "CAND-058",
+    "name": "Florencia Bianchi",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Microsoft Dynamics 365 customer engagement practice; CRM experience is not Salesforce."
+  },
+  {
+    "candidate_id": "CAND-059",
+    "name": "Maria Angelica Villanueva",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Oracle Cloud SCM practice."
+  },
+  {
+    "candidate_id": "CAND-060",
+    "name": "Esteban Morales",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Network infrastructure practice; hospital exposure was campus networking with no clinical application, CRM, or integration scope."
+  },
+  {
+    "candidate_id": "CAND-061",
+    "name": "Samantha Nguyen",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Appian low-code practice for public sector."
+  },
+  {
+    "candidate_id": "CAND-062",
+    "name": "Robert Kowalczyk",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "ERP program management practice in manufacturing; multi-vendor governance is real but there is no healthcare, Epic, or Salesforce program experience."
+  },
+  {
+    "candidate_id": "CAND-063",
+    "name": "Andre Washington",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Supply chain strategy practice with no CRM, healthcare, or business analysis on clinical or patient workflows."
+  },
+  {
+    "candidate_id": "CAND-064",
+    "name": "Martin Olivera",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Adobe Experience Manager digital experience practice."
+  },
+  {
+    "candidate_id": "CAND-065",
+    "name": "Nikhil Bose",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cybersecurity practice (offensive security and penetration testing) with no PHI access model, Salesforce Shield, or healthcare work."
+  },
+  {
+    "candidate_id": "CAND-066",
+    "name": "Christopher Adeyemi",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Sitecore digital experience practice."
+  },
+  {
+    "candidate_id": "CAND-067",
+    "name": "Ravi Teja Mandava",
+    "category": "strong_match",
+    "target_role_number": 23,
+    "target_role": "DevOps / release engineer",
+    "rationale": "Offshore senior consultant owning Copado and Gearset CI/CD, environment strategy and release management, including a provider Health Cloud program."
+  },
+  {
+    "candidate_id": "CAND-068",
+    "name": "Camille Okafor",
+    "category": "near_miss",
+    "target_role_number": 3,
+    "target_role": "Technical architect (Salesforce)",
+    "rationale": "Right Health Cloud data model, sharing and scale skills and onshore, but only Senior consultant level with 6 years total experience against a Manager role that expects 10 or more."
+  },
+  {
+    "candidate_id": "CAND-069",
+    "name": "Tomás Ferreyra",
+    "category": "strong_match",
+    "target_role_number": 19,
+    "target_role": "Salesforce developer, billing and revenue",
+    "rationale": "Offshore consultant Apex, LWC and Flow developer with payments build experience including a US provider patient billing program."
+  },
+  {
+    "candidate_id": "CAND-070",
+    "name": "Jasmine Okafor",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "ServiceNow HR service delivery practice."
+  },
+  {
+    "candidate_id": "CAND-071",
+    "name": "Hannah Szymanski",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Kinaxis supply chain planning practice."
+  },
+  {
+    "candidate_id": "CAND-072",
+    "name": "Brandon Kessler",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Guidewire P&C insurance integration practice; integration work is insurance core systems, not FHIR or HL7."
+  },
+  {
+    "candidate_id": "CAND-073",
+    "name": "Bethany Kowalski",
+    "category": "strong_match",
+    "target_role_number": 9,
+    "target_role": "Business analyst, patient care",
+    "rationale": "Pittsburgh-based senior consultant and former RN with Health Cloud care plan, care coordination, and scheduling requirements experience."
+  },
+  {
+    "candidate_id": "CAND-074",
+    "name": "Hannah Lindqvist",
+    "category": "strong_match",
+    "target_role_number": 22,
+    "target_role": "Data migration developer",
+    "rationale": "Onshore consultant with ETL, mock loads, reconciliation and patient identity matching on Health Cloud provider migrations."
+  },
+  {
+    "candidate_id": "CAND-075",
+    "name": "Daniela Ruiz",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Procurement advisory practice (strategic sourcing, source to pay) with no CRM requirements or healthcare work."
+  },
+  {
+    "candidate_id": "CAND-076",
+    "name": "Michelle Tanaka",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "HR transformation practice (Workday HCM); change management experience is HR-focused, not clinical adoption or patient-facing programs."
+  },
+  {
+    "candidate_id": "CAND-077",
+    "name": "Steven Marchetti",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Cloud infrastructure practice (Azure); health system work was hosting and desktops with no CRM, Epic application, or integration responsibility."
+  },
+  {
+    "candidate_id": "CAND-078",
+    "name": "Luis Alberto Ferreira",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Oracle Cloud ERP financials practice."
+  },
+  {
+    "candidate_id": "CAND-079",
+    "name": "Tomasz Wieczorek",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "ServiceNow ITSM practice."
+  },
+  {
+    "candidate_id": "CAND-080",
+    "name": "Daniel Whitcomb",
+    "category": "strong_match",
+    "target_role_number": 2,
+    "target_role": "Solution architect",
+    "rationale": "Atlanta-based manager who has led discovery and end-to-end Health Cloud design with Epic touchpoints for multiple health systems."
+  },
+  {
+    "candidate_id": "CAND-081",
+    "name": "Renata Villalobos",
+    "category": "strong_match",
+    "target_role_number": 1,
+    "target_role": "Program manager leader",
+    "rationale": "Chicago-based senior manager with 18 years leading multi-vendor Epic and Salesforce provider programs, PMP, available before start."
+  },
+  {
+    "candidate_id": "CAND-082",
+    "name": "Joaquín Pereira Bentancor",
+    "category": "strong_match",
+    "target_role_number": 29,
+    "target_role": "Functional tester 2",
+    "rationale": "Offshore consultant functional tester with clinical lab background, risk based regression and synthetic data on US provider Salesforce builds."
+  },
+  {
+    "candidate_id": "CAND-083",
+    "name": "Gary Pinkerton",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Application modernization practice (mainframe COBOL); data reconciliation and program delivery are in banking and insurance cores, not healthcare CRM."
+  },
+  {
+    "candidate_id": "CAND-084",
+    "name": "Rohan Kulkarni",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Application development practice (.NET, banking) with no Salesforce, functional testing, or healthcare experience."
+  },
+  {
+    "candidate_id": "CAND-085",
+    "name": "Ryan Delgado",
+    "category": "strong_match",
+    "target_role_number": 12,
+    "target_role": "Dev lead, CRM",
+    "rationale": "Denver-based senior consultant leading blended Health Cloud and Service Cloud dev teams at provider clients."
+  },
+  {
+    "candidate_id": "CAND-086",
+    "name": "Arjun Malhotra",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Guidewire P&C insurance practice."
+  },
+  {
+    "candidate_id": "CAND-087",
+    "name": "Martina Olivera Suárez",
+    "category": "strong_match",
+    "target_role_number": 16,
+    "target_role": "Salesforce developer, patient care 1",
+    "rationale": "Offshore consultant level Apex, LWC and Flow developer with three years of Health Cloud care management on US provider programs."
+  },
+  {
+    "candidate_id": "CAND-088",
+    "name": "Aditya Varma",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "ServiceNow platform development practice."
+  },
+  {
+    "candidate_id": "CAND-089",
+    "name": "Marcus Whitfield",
+    "category": "strong_match",
+    "target_role_number": 21,
+    "target_role": "Integration developer (FHIR/HL7, middleware)",
+    "rationale": "Onshore senior consultant with Epic Bridges background, HL7 v2 and FHIR, MuleSoft build, and Epic interface testing on provider programs."
+  },
+  {
+    "candidate_id": "CAND-090",
+    "name": "Terrence Boateng",
+    "category": "strong_match",
+    "target_role_number": 10,
+    "target_role": "Business analyst, billing and revenue",
+    "rationale": "Charlotte-based senior consultant with revenue cycle, estimates, payments, and Epic Resolute touchpoint experience on a Salesforce program."
+  },
+  {
+    "candidate_id": "CAND-091",
+    "name": "Arjun Venkatesan",
+    "category": "strong_match",
+    "target_role_number": 17,
+    "target_role": "Salesforce developer, patient care 2",
+    "rationale": "Offshore consultant with Apex, LWC and Flow build experience centered on provider scheduling and appointment booking."
+  },
+  {
+    "candidate_id": "CAND-092",
+    "name": "LaToya Brooks",
+    "category": "strong_match",
+    "target_role_number": 24,
+    "target_role": "Test lead",
+    "rationale": "Onshore senior consultant test lead with SIT, UAT and cross vendor defect governance on Epic and Salesforce provider programs."
+  },
+  {
+    "candidate_id": "CAND-093",
+    "name": "Isabella Moreno",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Coupa procurement practice."
+  },
+  {
+    "candidate_id": "CAND-094",
+    "name": "Sneha Kulkarni",
+    "category": "strong_match",
+    "target_role_number": 20,
+    "target_role": "Integration developer, billing and revenue",
+    "rationale": "Offshore consultant MuleSoft developer building FHIR billing resource APIs with synthetic data for provider revenue integrations."
+  },
+  {
+    "candidate_id": "CAND-095",
+    "name": "Priya Ananthakrishnan",
+    "category": "near_miss",
+    "target_role_number": 4,
+    "target_role": "Integration architect (Epic interoperability)",
+    "rationale": "Strong MuleSoft, HL7 v2 and FHIR integration architect at the right level and onshore, but all EHR interoperability is on Oracle Health (Cerner), with no Epic API, Bridges or Interconnect experience."
+  },
+  {
+    "candidate_id": "CAND-096",
+    "name": "Rebecca Oyelaran",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Analytics and BI practice (Tableau); hospital work was operational reporting with no CRM, Data Cloud, or patient identity scope."
+  },
+  {
+    "candidate_id": "CAND-097",
+    "name": "Gregory Tanaka",
+    "category": "non_match",
+    "target_role_number": null,
+    "target_role": null,
+    "rationale": "Microsoft Dynamics 365 ERP practice."
+  },
+  {
+    "candidate_id": "CAND-098",
+    "name": "Jordan Lindqvist",
+    "category": "near_miss",
+    "target_role_number": 7,
+    "target_role": "Epic application analyst",
+    "rationale": "Epic certified, senior consultant and onshore, but certifications and build experience are in Epic Beaker and Epic ClinDoc, not the required Resolute, Cadence or MyChart modules."
+  },
+  {
+    "candidate_id": "CAND-099",
+    "name": "Arjun Menon",
+    "category": "strong_match",
+    "target_role_number": 13,
+    "target_role": "Salesforce developer, CRM 1",
+    "rationale": "Bangalore-based consultant developer with Apex, LWC, Flow, and three years of Health Cloud for US provider clients."
+  },
+  {
+    "candidate_id": "CAND-100",
+    "name": "Patricia Dela Cruz",
+    "category": "strong_match",
+    "target_role_number": 28,
+    "target_role": "Functional tester 1",
+    "rationale": "Offshore analyst doing manual functional and regression testing with synthetic data on US provider Salesforce programs."
+  }
+]
